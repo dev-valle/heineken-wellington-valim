@@ -145,6 +145,10 @@ main h2 {
   display: flex;
 }
 
+.setas img {
+  width: 50%;
+}
+
 .voltar {
   display: flex;
   align-items: center;
